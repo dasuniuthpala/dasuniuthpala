@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **Landscape design project**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **dasuniuthpala2002@gmail.com**
 <br>
