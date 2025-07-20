@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
  </p>
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<br>
+
 ## 🚀 About Me
 
 <!--https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif-->
