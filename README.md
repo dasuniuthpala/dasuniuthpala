@@ -57,3 +57,24 @@
 
 <br>
 <br>
+<!-- GitHub Stats with Animation -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasuniuthpala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasuniuthpala&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+</div>
+
+
+
+<!-- Contact Section -->
+## 📬 Get In Touch
+
+<div align="center">
+  <a href="www.linkedin.com/in/dasuni-uthpala-893719266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dasuniuthpala2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
