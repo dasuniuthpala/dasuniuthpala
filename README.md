@@ -22,8 +22,8 @@
 ## 🚀 About Me
 
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)
-- 🌱 I’m currently learning **MERN Stack**
-- 🔭 I’m currently working on **Food Delivery Project**
+- 🌱 I’m currently learning **Springboot**
+- 🔭 I’m currently working on **Student community website**
 - 💬 Ask me about **MERN STACK**
 - 📫 How to reach me: **dasuniuthpala2002@gmail.com**
 
